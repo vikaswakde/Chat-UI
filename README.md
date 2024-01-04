@@ -1,3 +1,7 @@
+# Take a look at it!
+-  [Watch the video](https://x.com/VikasWakde42/status/1742672927475278052?s=20)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
